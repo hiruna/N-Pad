@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${1:N-Pad}
+#N-Pad
+N-Pad is a basic JavaFX application that allows you to edit text files.
 
 ###Version 1.0 (release)
 * Keyboard shortcuts added (Ctrl+S | Ctrl+T | Ctrl+M)
@@ -13,15 +12,18 @@
 * Changes to file handling code
 * Changes to GUI code
 
-N-Pad is a basic JavaFX application that allows you to edit text files.
 ## Installation
 This is a standalone application and does not require installation.
+
 ## Requirements
 Java 8 must be installed on the device.
+
 ## Usage
 N-Pad is in Java executable format. Double click on ```N-Pad.jar``` to run.
+
 ###Using Terminal/Command Prompt to run the application
 ```java -jar NPad.jar```
+
 ## Contributing
 ####Source code will be published from the next release
 1. Fork it!
@@ -29,15 +31,7 @@ N-Pad is in Java executable format. Double click on ```N-Pad.jar``` to run.
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-## Changelog
-####Version 0.9
-* Create new tabs
-* Delete open tabs
-* Open file
-* Save file
-* Change Font to Calibri or Consolas
-* Rename tabs
-* Renames tab to file name when opened or saved
+
 ## License
 ###GNU General Public License
 This program is free software: you can redistribute it and/or modify
@@ -52,6 +46,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
