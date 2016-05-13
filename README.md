@@ -19,7 +19,7 @@ This is a standalone application and does not require installation.
 Java 8 must be installed on the device.
 
 ## Usage
-N-Pad is in Java executable format. Double click on ```N-Pad.jar``` to run.
+N-Pad is in Java executable format. Double click on ```NPad.jar``` to run.
 
 ###Using Terminal/Command Prompt to run the application
 ```java -jar NPad.jar```
