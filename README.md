@@ -1,5 +1,5 @@
 #N-Pad
-N-Pad is a basic JavaFX application that allows you to edit text files.
+N-Pad is a simple JavaFX application that allows you to edit text files.
 
 ###Version 1.0 (release)
 * Keyboard shortcuts added (Ctrl+S | Ctrl+T | Ctrl+M)
