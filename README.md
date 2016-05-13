@@ -1,8 +1,6 @@
-# [WIP] N-Pad [WIP]
-
-
-N-Pad is a basic JavaFX application that allows you to edit text files.
-
+<snippet>
+  <content><![CDATA[
+# ${1:N-Pad}
 
 ###Version 1.0 (release)
 * Keyboard shortcuts added (Ctrl+S | Ctrl+T | Ctrl+M)
@@ -15,9 +13,6 @@ N-Pad is a basic JavaFX application that allows you to edit text files.
 * Changes to file handling code
 * Changes to GUI code
 
-<snippet>
-  <content><![CDATA[
-# ${1:[WIP] N-Pad [WIP]}
 N-Pad is a basic JavaFX application that allows you to edit text files.
 ## Installation
 This is a standalone application and does not require installation.
